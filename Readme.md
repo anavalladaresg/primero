@@ -22,6 +22,8 @@ Esto es un texto <sub> subescrito </sub>
 
 Esto es un texto <sup> sobrescrito </sup>
 
+![paisaje](./images/paisaje.webp)
+
 Lista desordenada:
 - George Washington
 * John Adams
