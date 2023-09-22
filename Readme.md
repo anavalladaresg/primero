@@ -41,7 +41,7 @@ Lista anidada:
 
 Lista de tareas:
 - [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] https://google.com/
 - [ ] Añadir alegría a la experiencia cuando todas las tareas estén completas :tada:
 
 Emojis:
