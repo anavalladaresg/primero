@@ -40,21 +40,21 @@ Lista anidada:
 Lista de tareas:
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] Añadir alegría a la experiencia cuando todas las tareas estén completas :tada:
 
 Emojis:
 
 :raccoon: :lion: :horse:
 :skier: :mountain_biking_man:
 
-> [!NOTA]
-> Highlights information that users should take into account, even when skimming.
+> [!NOTE]
+> Destaca información que los usuarios deben tener en cuenta, incluso al ojear.
 
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+> Información crucial necesaria para que los usuarios tengan éxito.
 
 > [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
+> Contenido crítico que requiere atención inmediata por parte del usuario debido a posibles riesgos.
 
 Aquí va a haber una nota al pie de página.[^1]
 
